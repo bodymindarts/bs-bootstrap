@@ -9,7 +9,8 @@
     "in-source": true
   },
   "suffix": ".bs.js",
-  "bs-dependencies": [
-      // add your bs-dependencies here 
-  ]
+  "bs-dev-dependencies": [
+    "bs-jest"
+  ],
+  "refmt": 3
 }
